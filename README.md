@@ -1,4 +1,7 @@
 <div align="center">
+  <img src="./Banner.jpg" width="100%" alt="SK Sabuj GitHub Banner">
+</div>
+<div align="center">
 
 # 👋 Hi, I'm **SK Sabuj**
 
