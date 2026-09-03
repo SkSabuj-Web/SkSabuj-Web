@@ -116,11 +116,11 @@ https://sksabuj-web.github.io/portfolio-web/
 
 <div align="center">
 
-<a href="https://linkedin.com/in/sajib-khan-sabuj">
+<a href="[https://linkedin.com/in/sajib-khan-sabuj](https://www.linkedin.com/in/sajib-khan-sabuj-a8436441a/)">
   <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://facebook.com/sk.sabuj">
+<a href="[https://facebook.com/sk.sabuj](https://www.facebook.com/tsobuj.sobuj)">
   <img src="https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
