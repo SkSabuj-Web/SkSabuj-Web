@@ -112,27 +112,24 @@ https://sksabuj-web.github.io/portfolio-web/
 
 ---
 
-## 🤝 Let's Connect
+## 🤝 Let's Connect## 
 
 <div align="center">
 
-<a href="[https://linkedin.com/in/sajib-khan-sabuj](https://www.linkedin.com/in/sajib-khan-sabuj-a8436441a/)">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/sajib-khan-sabuj-a8436441a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="[https://facebook.com/sk.sabuj](https://www.facebook.com/tsobuj.sobuj)">
-  <img src="https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+<a href="https://www.facebook.com/tsobuj.sobuj" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-Follow%20Me-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
 
 <a href="mailto:sksabuj653@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-sksabuj653%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 
 </div>
 
----
-
-<div align="center">
 
 ### 💙 Thanks for visiting my profile!
 
