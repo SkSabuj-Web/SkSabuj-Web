@@ -79,7 +79,7 @@ https://sksabuj-web.github.io/Coffee-shop-web/
 My personal portfolio showcasing my projects, skills and development journey.
 
 🔗 **Live Portfolio:**
-https://sksabuj-web.github.io/portfolio-web/
+(https://portfolio-react-nine-sigma-78.vercel.app/)
 
 ---
 
